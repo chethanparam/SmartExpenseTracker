@@ -1,4 +1,4 @@
-## FinTrack - Personal Finance Tracker 💰
+## Smart Expense Tracker 💰
 
 ## Features =>
  **Dashboard Overview**
